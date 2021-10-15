@@ -1,0 +1,6 @@
+export { default as Container } from './Container/Container'
+export { default as GlobalHeader } from './GlobalHeader/GlobalHeader'
+export { default as PageLayout } from './PageLayout/PageLayout'
+export { default as Strata } from './Strata/Strata'
+export { default as Text } from './Text/Text'
+export { default as Wrapper } from './Wrapper/Wrapper'

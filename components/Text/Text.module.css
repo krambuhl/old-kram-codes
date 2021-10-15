@@ -1,0 +1,10 @@
+@import url(breakpoints.css);
+
+.regular { font-weight: var(--weight-regular); }
+.bold { font-weight: var(--weight-bold); }
+
+.xs { font-size: var(--space-xs); line-height: 1.5em; }
+.sm { font-size: var(--space-sm); line-height: 1.4em; }
+.md { font-size: var(--space-md); line-height: 1.4em; }
+.lg { font-size: var(--space-lg); line-height: 1.3em; }
+.xl { font-size: var(--space-xl); line-height: 1.3em; }

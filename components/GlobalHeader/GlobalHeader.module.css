@@ -1,0 +1,12 @@
+@import url(breakpoints.css);
+
+.root {
+  & a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+

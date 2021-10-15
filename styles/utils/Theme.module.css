@@ -1,0 +1,12 @@
+/* functional colors */
+.normal { 
+  --color-background: var(--color-gray-100);
+  --color-foreground: var(--color-gray-1000);
+  --color-primary: var(--color-mint-500);
+}
+
+.dark { 
+  --color-background: var(--color-gray-1000);
+  --color-foreground: var(--color-gray-100);
+  --color-primary: var(--color-mint-500);
+}
